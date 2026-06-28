@@ -1,0 +1,31 @@
+Feedback_ID,Client_Name,Service,Feedback_Text,Rating,Sentiment
+F001,Ahmed Khan,Cloud Hosting,The cloud hosting service has been absolutely fantastic. Uptime is excellent and support team is very responsive.,5,Positive
+F002,Sara Ali,Web Development,Website was delivered on time and looks great. Very happy with the design and functionality.,5,Positive
+F003,Bilal Raza,Cybersecurity,Security audit revealed several vulnerabilities. The team fixed them quickly and professionally.,4,Positive
+F004,Zara Sheikh,Mobile App,The mobile app crashes frequently on Android devices. Very disappointing experience overall.,2,Negative
+F005,Omar Farooq,IT Support,IT support is average. Sometimes takes too long to respond to tickets.,3,Neutral
+F006,Hina Malik,Data Analytics,Data analytics dashboard is excellent. Helped us make better business decisions. Highly recommended.,5,Positive
+F007,Kamran Butt,Cloud Hosting,Server went down twice this month. Unacceptable for a paid service. Very frustrated.,1,Negative
+F008,Nadia Hussain,Web Development,The website design is decent but loading speed could be improved significantly.,3,Neutral
+F009,Tariq Mehmood,Cybersecurity,Excellent cybersecurity solutions. Our data has never been safer. Great team of experts.,5,Positive
+F010,Ayesha Siddiqui,Mobile App,App interface is clean and easy to use. Minor bugs here and there but overall good experience.,4,Positive
+F011,Usman Qureshi,IT Support,Support staff is knowledgeable and helpful. Resolved my network issue within an hour.,5,Positive
+F012,Farah Naz,Data Analytics,Analytics reports are too complex to understand. Need simpler visualizations for non-technical users.,2,Negative
+F013,Rashid Ahmed,Cloud Hosting,Good cloud performance overall. Occasional latency issues but nothing too serious.,3,Neutral
+F014,Sana Baig,Web Development,Project was delayed by two weeks with no proper communication. Very unprofessional behavior.,1,Negative
+F015,Imran Chaudhry,Cybersecurity,Cybersecurity training provided to our staff was informative and well organized. Thank you.,4,Positive
+F016,Maryam Iqbal,Mobile App,The app is very slow to load. Takes more than 10 seconds every time. Needs major improvement.,2,Negative
+F017,Hassan Mirza,IT Support,Response time is too slow. Waited 3 days for a simple password reset. Very unhappy.,1,Negative
+F018,Lubna Khan,Data Analytics,The team provided valuable insights from our sales data. Revenue increased after implementing suggestions.,5,Positive
+F019,Adnan Sheikh,Cloud Hosting,Cloud backup service works perfectly. Never lost any data. Very reliable and trustworthy service.,5,Positive
+F020,Rabia Farhan,Web Development,The development team is skilled and cooperative. Happy with the final product delivered.,4,Positive
+F021,Shahid Nawaz,Cybersecurity,Firewall setup was done correctly. No security breaches since implementation. Satisfied with service.,4,Positive
+F022,Amna Riaz,Mobile App,App has great features but the user interface is confusing. New users will struggle to navigate.,3,Neutral
+F023,Junaid Aslam,IT Support,IT team resolved server issues promptly and efficiently. Minimal downtime experienced. Good job.,4,Positive
+F024,Kiran Waheed,Data Analytics,Data reports are accurate and timely. Helps our management team a lot in decision making process.,4,Positive
+F025,Faisal Aziz,Cloud Hosting,Cloud storage is affordable and scalable. Easy to increase storage as our business grows rapidly.,4,Positive
+F026,Saima Javed,Web Development,SEO optimization done by the team improved our website ranking significantly. More customers found us.,5,Positive
+F027,Waqas Latif,Cybersecurity,Not satisfied with penetration testing results. Report was superficial and lacked technical depth.,2,Negative
+F028,Tania Zafar,Mobile App,Excellent app with smooth performance. Our customers love using it for placing orders online.,5,Positive
+F029,Naveed Gillani,IT Support,Network setup was done professionally. Team explained everything clearly and answered all questions.,4,Positive
+F030,Shazia Parveen,Data Analytics,The analytics service is okay. Nothing extraordinary but gets the basic job done for our needs.,3,Neutral
